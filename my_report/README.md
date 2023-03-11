@@ -31,6 +31,14 @@
 ![Screenshot 2023-03-11 132459](https://user-images.githubusercontent.com/100956128/224502541-1d80f12a-ef1f-4b83-b198-5a47e0870904.png)
 ![Screenshot 2023-03-11 132544](https://user-images.githubusercontent.com/100956128/224502577-9aedadd1-7ece-4cf1-9d46-70244ac5742b.png)
 
+Για κάθε ένα από τα κτήρια έφτιαξα και ένα δικό του Material μέσα στον φάκελο Assets>Materials έτσι όπως μας δείχνει στο Unit2 στις όδηγιες.Σας παραθέτω ένα σκριν σοτ που φαίνονται τα υλικά.
+![Screenshot 2023-03-11 132626](https://user-images.githubusercontent.com/100956128/224502744-39dde827-fd23-4db5-8d41-37bf7d900324.png)
+
+Άφου τελείωσσα με αυτήν την διαδηκασία έφτιαξα ενα time line με την βοήθεια του οποίου έκανα record την κίνηση της κάμερας και έκανα record για να παρουσιάσω την σκηνή μου μπορείτε να δειτε αυτό το βίντεο στο My Dieries> Unit2.
+
+### Part 2
+
+
 
 
 
