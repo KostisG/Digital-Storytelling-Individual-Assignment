@@ -39,6 +39,7 @@
 ### Part 2
 Αρχικά άνοιξα την έτοιμη σκηνή μέσα στο Unit 3 starter files που ονομάζεται sci fi scene. Αρχικά τοποθέτησα μέσα στην σκινι κάποια από το props που υπήρχαν μέσα στους φακέλους και έπειτα με το pro builder έφτιαξα μια ταμπέλα η οποία γράφει Road Work Ahead και έβαλα και τους κώνους που είχα φτιάξει στον μάθημα έφτιαξα και ένα material χρώματος κόκκινο για να βάψω την ταμπέλα 
 Μετά από αυτό έβαλα στην σκηνή δυο ταξί και ένα μηχανάκι έπειτα με την βοήθεια τους time line και το recorder έφτιαξα ένα απλό animation στο οποίο φαίνεται η σκηνή μου και η ταμπέλα που έφτιαξα. Παρακάτω θα βρείτε κάποια screen shots απο το unity και το βίντεο είναι στα dailies>deliverable 1>part2
+
 ![Screenshot 2023-03-11 200407](https://user-images.githubusercontent.com/100956128/227173023-6be07719-868b-45c6-b61d-acbfa153df06.png)
 ![Screenshot 2023-03-11 200429](https://user-images.githubusercontent.com/100956128/227173056-1f49c6d1-4299-4684-949e-8960a0e7ba06.png)
 ![Screenshot 2023-03-11 200535](https://user-images.githubusercontent.com/100956128/227173123-4e6a19b8-132f-476c-b7ca-c4422a830bdf.png)
